@@ -1,0 +1,6 @@
+@modul10_1030223000069_HostAddress = http://localhost:5125
+
+GET {{modul10_1030223000069_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
